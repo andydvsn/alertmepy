@@ -1,4 +1,4 @@
-AlertMePy v1.00
+AlertMePy v0.01
 ===============
 
 AlertMePy is a Python-based interface to the AlertMe home security and energy monitoring system, via their web API. It can be used directly, or imported into your own Python scripts. It's designed to reduce the initial hurdle of controlling and obtaining data from the AlertMe system, making it more straightforward to analyse your data and control your system.
