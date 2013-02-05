@@ -46,7 +46,7 @@ Advanced
 
 AlertMePy contains all of the calls documented in the AlertMe Web API document, which can be downloaded here:
 
-	[AlertMe Web API Documentation v2.02](http://support.alertme.com/ics/support/DLRedirect.asp?fileNum=82326&deptID=5503 "AlertMe Web API Documentation v2.02")
+[AlertMe Web API Documentation v2.02](http://support.alertme.com/ics/support/DLRedirect.asp?fileNum=82326&deptID=5503 "AlertMe Web API Documentation v2.02")
 
 However, it also contains a couple that are not documented and only appear in the example code posted by AlertMe:
 
