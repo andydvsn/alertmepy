@@ -50,7 +50,7 @@ AlertMePy contains all of the calls documented in the AlertMe Web API document, 
 
 However, it also contains a couple that are not documented and only appear in the example code posted by AlertMe:
 
-	https://api.alertme.com/webapi/test/v2/
+[AlertMe Web API Example Code](https://api.alertme.com/webapi/test/v2/ "AlertMe Web API Example Code")
 
 Supported calls are:
 
