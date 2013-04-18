@@ -1,11 +1,11 @@
-AlertMePy v0.01
+AlertMePy v0.02
 ===============
 
 AlertMePy is a Python-based interface to the AlertMe home security and energy monitoring system, via their web API. It can be used directly, or imported into your own Python scripts. It's designed to reduce the initial hurdle of controlling and obtaining data from the AlertMe system, making it more straightforward to analyse your data and control your system.
 
 Please note that while the AlertMe system is the backbone of both the Lowe's Iris and British Gas 'Safe & Secure' products, neither of these services currently provide an API interface. I would encourage you to contact the retailers of these products and request that this facility be added, as there is no good reason for its omission.
 
-This script is just under development at the moment. Come back later and it should do more.
+Development of this script is a little dormant on my behalf at the moment, as I got sidetracked and it already did everything I needed of it. However, there's no reason it couldn't be extended to support more options and funky features. If you need something more complete, try AlertMePi, a Perl implementation for accessing the AlertMe API.
 
 Installation
 ------------
